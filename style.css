@@ -1,0 +1,116 @@
+.article_source {
+	background-color: #324D54;
+	width: 85%;
+	border-radius: 10px 10px 0px 0px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:20px;
+	margin-top: 30px;
+}
+.navbar {
+	z-index:0;
+	width: 90%;
+	left:50%;
+	margin-left:-45%;
+	min-width: 600px;
+	background-color: #2B2722;
+}
+.jumbotron {
+	min-width: 600px;
+	position:relative;
+	width: 90%;
+	left:50%;
+	margin-left:-45%;
+	border-style:solid;
+	border-width:0px 25px 0px 25px;
+	border-color:#2B2722;
+}
+.news_header {
+	width: 50%;
+	float:left;
+}
+.news_header_text{
+	margin-left:25px;
+	color: #FCFFE4;
+	font-size: 40;
+}
+.regular_header {
+	padding:10px;
+	color: #78E0FA;
+	cursor: default;
+}
+.header {
+	padding:10px;
+	color: #78E0FA;
+	cursor: pointer;
+}
+.brand_header {
+	position:absolute;
+	width:15%;
+	left:50%;
+	margin-left:-7.5%;
+	color: #FCFFE4;
+	font-size: 40;
+}
+.header:hover {
+	padding:10px;
+	color: #66F779;
+}
+.glyphicon-arrow-left:hover {
+	cursor:pointer;
+}
+.back {
+	float:right;
+	color: #FCFFE4;
+	font-size: 40;
+	margin-right: 20px;
+	margin-top:5px;
+}
+
+.brand{
+	width: 40%;
+	margin-left:auto;
+	margin-right:auto;
+}
+.article_titles {
+	min-width: 500px;
+	width: 85%;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:30px;
+	height:200px;
+}
+.source_content {
+	width: 60%;
+	margin-left:auto;
+	margin-right:auto;
+}
+.source_title {
+	width: 100%;
+	left: 50%;
+	background-color: #E9E4E4;
+	display: block;
+	text-align:center; 
+	border-radius: 10px;
+	-webkit-box-shadow: 0px 0px 5px 10px rgba(0,0,0,0.75); 
+	-moz-box-shadow: 0px 0px 5px 10px rgba(0,0,0,0.75); 
+	box-shadow: 10px 0px 10px -2px rgba(0,0,0,0.75), -9px 0px 4px -2px rgba(0,0,0,0.75); 
+}
+.title {
+	float:left;
+	width: 30%;
+	min-width:150px;
+	max-height: 200px;
+	min-height: 120px;
+	margin-left: 2%;
+	background-color: #E9E4E4;
+	border-radius: 10px;
+	display: block;
+	text-align:center; 
+	-webkit-box-shadow: 0px 0px 5px 10px rgba(0,0,0,0.75); 
+	-moz-box-shadow: 0px 0px 5px 10px rgba(0,0,0,0.75); 
+	box-shadow: 10px 0px 10px -2px rgba(0,0,0,0.75), -9px 0px 4px -2px rgba(0,0,0,0.75); 
+}
+p.title_content {
+	padding-top:15px;
+}
